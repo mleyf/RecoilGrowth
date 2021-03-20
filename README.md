@@ -1,5 +1,5 @@
 # RECOIL GROWTH
-There are two directories, one for the implementation of the algorithm in 2D and the other for 3D. At the moment, each directory contains two documents: the **deadline version** (the code as it was by the term project deadline) and an **updated version** for improvement.
+There are two directories, one for the implementation of the algorithm in 2D and the other for 3D. Each directory contains two documents: the **deadline version** (the code as it was by the term project deadline) and an **updated version** for improvement.
 
 ## Objective
 To implement the recoil growth algorithm in a 2D and a 3D lattice for different modeling systems.
